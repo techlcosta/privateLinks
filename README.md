@@ -1,4 +1,4 @@
-# Linktree
+# Leandro Costa Links
 
 Uma página simples de links pessoais, criada para centralizar site, blog, redes sociais e projetos em uma interface bonita, responsiva e direta.
 
